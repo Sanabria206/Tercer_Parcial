@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tercer_ParcialV2</string>
+    <string name="editText1_String">Titulo</string>
+    <string name="editText2_String">Isbn</string>
+    <string name="editText3_String">Autor</string>
+    <string name="editText4_String">Fecha</string>
+    <string name="editText5_String">Nro.Pagina</string>
+    <string name="editText6_String">Descripcion</string>
+    <string name="editText7_String">Foto(Url)</string>
+    <string name="Button">Adición</string>
+    <string name="ButtonListado">Listado</string>
+    <string name="ButtonEdicion">Edición</string>
+    <string name="ButtonEliminar">Eliminar</string>
+</resources>
